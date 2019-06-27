@@ -32,11 +32,14 @@ Example: node liri.js do-what-it-says
     Example: spotify-this-song,"I Want it That Way"
 
 ## Preview of what it looks like
-
+1. [node liri.js concert-this Ariana Grande](previews/concert-this.mov)  
+3. [node liri.js spotify-this-song Reality](previews/Spotify-this-song.mov)  
+5. [node liri.js movie-this infinity war](previews/movie-this.mov)  
+7. [node liri.js do-what-it-says](previews/do-what-it-says.mov) 
 
 ## Author
     Hun Lee 
-    
+
 ## APIs used
 1) OMDB
 2) Spotify
