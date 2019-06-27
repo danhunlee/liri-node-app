@@ -11,7 +11,7 @@ Here are some of the guidelines to follow so that when you download the copy of 
 * Install npm install dotenv node-spotify-api axios moment
 * Create a file called .env
 * Input this on your file
-    # Spotify API keys
+    ### Spotify API keys
     SPOTIFY_ID=your-spotify-id
     SPOTIFY_SECRET=your-spotify-secret
 
